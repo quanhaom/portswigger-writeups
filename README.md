@@ -14,13 +14,34 @@ This repository contains my learning notes and security writeups based on PortSw
 * SQL Injection
 * Cross-Site Scripting (XSS)
 * Cross-Site Request Forgery (CSRF)
-* Access Control
+* Clickjacking
+* DOM-based vulnerabilities
+* Cross-origin resource shring (CORS)
+* XML external entity (XXE) injection
+* Server-side request forgery (SSRF)
+* HTTP request smuggling
+* OS command injecton
+* Server-side template injection
+* Path traversal
+* Access control vulnerabilities
 * Authentication
-* Server-Side Request Forgery (SSRF)
-* File Upload Vulnerabilities
-* XXE
-* Deserialization
-* Business Logic Vulnerabilities
+* WebSockets
+* Web cache poisoning
+* Insecure deserialization
+* Information disclosure
+* Business logic vulnerabilites
+* HTTP Host header attacks
+* OAuth authentication
+* File upload vulnerabilities
+* JWT
+* Essential skills
+* Prototype pollution
+* GraphQL API vulnerabilities
+* Race conditions
+* NoSQL injection
+* API testing
+* Web LLM attacks 
+* Web cache deception
 
 ## Disclaimer
 
